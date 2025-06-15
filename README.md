@@ -8,6 +8,10 @@
 - 💥 Funner fact: I own [zakkbob.dev](https://zakkbob.dev), which may or may not someday feature a website
 - 💃 Funnest fact: I recently joined [Hack Club](https://hackclub.com/) (its amazing, if you're under 18, you should join too!)
 
-<!-- uncomment this when it's not bad, oooo its at b-, lets wait till A
+I also made a GPG key for some reason. So here's its fingerprint: <br>
+```F5F0 C5CD 7E01 B582 DA9C BA07 7109 3420 23C3 40E3```
+
+
+<!-- uncomment this when it's not bad, oooo its at b-, lets wait till A, oh no its C- again :(
 [![Zakkbob's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakkbob)](https://github.com/anuraghazra/github-readme-stats) -->
 
