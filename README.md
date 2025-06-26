@@ -14,6 +14,6 @@ I also made a GPG key for some reason. So here's its fingerprint: <br>
 Also, feel free to add this to ~/.ssh/authorized_keys
 ```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMraxFV3Iyg8ODkdkOYDhOwBHH0CLQ0X+0U3tvkdSZ4Q```
 
-<!-- uncomment this when it's not bad, oooo its at b-, lets wait till A, oh no its C- again :(
-[![Zakkbob's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakkbob)](https://github.com/anuraghazra/github-readme-stats) -->
+Random stats nobody looks at
+[![Zakkbob's GitHub stats](https://github-readme-stats.vercel.app/api?username=torvalds)](https://github.com/anuraghazra/github-readme-stats) 
 
