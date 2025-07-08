@@ -3,7 +3,6 @@
 - 🔭 Currently working on my homelab, or 5 random projects which I'll probably never finish
 - 🌱 Also learning how to use Arch _(btw)_
 - 📫 Reach me at [me\@zakkbob.dev](mailto:me\@zakkbob.dev)
-- 🐠 Pronouns: fish/bob
 - ⚡ Fun fact: I have an awesome github account [@zakkbob](https://github.zakkbob.dev) (you're on it right now)
 - 💥 Funner fact: I own [zakkbob.dev](https://zakkbob.dev), which may or may not someday feature a website
 - 💃 Funnest fact: I recently joined [Hack Club](https://hackclub.com/) (its amazing, if you're under 18, you should join too!)
