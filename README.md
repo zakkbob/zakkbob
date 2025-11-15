@@ -7,10 +7,10 @@
 - 💥 Funner fact: I own [zakkbob.dev](https://zakkbob.dev), which may or may not someday feature a website
 
 I also made a GPG key for some reason. So here's its fingerprint: <br>
-```F5F0 C5CD 7E01 B582 DA9C BA07 7109 3420 23C3 40E3```
+```98B4 BC6E 8CCE DB80 0D5C C9CD A4D5 6AE3 1822 7B60```
 
 Also, feel free to add this to ~/.ssh/authorized_keys
-```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMraxFV3Iyg8ODkdkOYDhOwBHH0CLQ0X+0U3tvkdSZ4Q```
+```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPImXXXefC5tQbzAHvcmvwswXgUaYPPdkgzH+2v7QnN4```
 
 Random stats nobody looks at <br>
 [![Zakkbob's GitHub stats](https://github-readme-stats-opal-two.vercel.app/api?username=zakkbob)](https://github.com/anuraghazra/github-readme-stats)
