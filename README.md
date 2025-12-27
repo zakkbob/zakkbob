@@ -4,7 +4,7 @@
 - 🌱 Also learning how to use Arch _(btw)_
 - 📫 Reach me at [me\@zakkbob.dev](mailto:me\@zakkbob.dev)
 - ⚡ Fun fact: I have an awesome github account [@zakkbob](https://github.zakkbob.dev) (you're on it right now)
-- 💥 Funner fact: I own [zakkbob.dev](https://zakkbob.dev), which may or may not someday feature a website
+- 💥 Funner fact: I own [zakkbob.dev](https://zakkbob.dev), website coming soon™
 
 I also made a GPG key for some reason. So here's its fingerprint: <br>
 ```98B4 BC6E 8CCE DB80 0D5C C9CD A4D5 6AE3 1822 7B60```
