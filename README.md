@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm zakk
 
-- 🔭 Currently working on ~my homelab, or 5 random projects which I'll probably never finish~ my GCSEs :(
+- 🔭 Currently working on my homelab, or 5 random projects which I'll probably never finish :(
 - 🌱 Also learning how to use Arch _(btw)_
 - 📫 Reach me at [me\@zakkbob.dev](mailto:me\@zakkbob.dev)
 - ⚡ Fun fact: I have an awesome github account [@zakkbob](https://github.zakkbob.dev) (you're on it right now)
