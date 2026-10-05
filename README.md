@@ -9,7 +9,7 @@
 I also made a GPG key for some reason. So here's its fingerprint: <br>
 ```98B4 BC6E 8CCE DB80 0D5C C9CD A4D5 6AE3 1822 7B60```
 
-Also, feel free to add this to ~/.ssh/authorized_keys
+Feel free to add this to ~/.ssh/authorized_keys
 ```ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPImXXXefC5tQbzAHvcmvwswXgUaYPPdkgzH+2v7QnN4```
 
 Random stats nobody looks at <br>
